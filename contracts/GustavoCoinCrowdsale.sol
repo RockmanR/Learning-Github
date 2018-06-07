@@ -18,5 +18,6 @@ contract GustavoCoinCrowdsale is TimedCrowdsale, MintedCrowdsale {
         Crowdsale(_rate, _wallet, _token)
         TimedCrowdsale(_openingTime, _closingTime) {
 
+//test
         }
 }
